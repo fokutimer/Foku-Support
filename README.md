@@ -7,7 +7,7 @@ Here you’ll find:
 - Contact information for support  
 - Basic guidance on using Foku  
 
-📩 For help, please email: [hello@fokuapp.com](mailto:hello@fokuapp.com)  
+📩 For help, please email: [foku.timer@gmail.com](mailto:foku.timer@gmail.com)  
 
 ---
 
